@@ -1,6 +1,6 @@
-Nginx
+NGINX
 =====
 
-Nginx HTTP Server
+NGINX HTTP Server
 
 Documentation is available at http://nginx.org
